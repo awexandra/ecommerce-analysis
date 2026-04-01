@@ -35,7 +35,7 @@ Python (pandas, numpy, matplotlib, seaborn, scipy, statsmodels), Jupyter Noteboo
 
 | Анализ покупательской активности | RFM-сегментация |
 |----------------------------------|-----------------|
-| ![Тепловая карта](images/heatmap.png) | ![Эффективность сегментов](images/segment_efficiency.png) |
+| ![Тепловая карта](<img width="587" height="457" alt="Тепловая карта" src="https://github.com/user-attachments/assets/83612585-f038-4806-8197-a65363987bf6" />) | ![Эффективность сегментов](images/segment_efficiency.png) |
 
 | Сравнение возвратных и разовых | Топ-20 товаров |
 |-------------------------------|----------------|
@@ -50,4 +50,3 @@ Python (pandas, numpy, matplotlib, seaborn, scipy, statsmodels), Jupyter Noteboo
 
 ## Ссылка на полный код
 [ecommerce_analysis.ipynb](ecommerce_analysis.ipynb)
-<img width="587" height="457" alt="Тепловая карта" src="https://github.com/user-attachments/assets/83612585-f038-4806-8197-a65363987bf6" />
