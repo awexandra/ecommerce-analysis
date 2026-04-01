@@ -35,11 +35,12 @@ Python (pandas, numpy, matplotlib, seaborn, scipy, statsmodels), Jupyter Noteboo
 
 | Анализ покупательской активности | RFM-сегментация |
 |----------------------------------|-----------------|
-| <img width="350" height="375" alt="Тепловая карта" src="https://github.com/user-attachments/assets/83612585-f038-4806-8197-a65363987bf6" /> | ![Эффективность сегментов](images/segment_efficiency.png) |
+| <img width="350" height="375" alt="Тепловая карта" src="https://github.com/user-attachments/assets/83612585-f038-4806-8197-a65363987bf6" /> | <img width="800" height="450" alt="RFM-сегменты" src="https://github.com/user-attachments/assets/928d361e-b833-411f-9fa0-2faffa42380a" /> |
 
 | Сравнение возвратных и разовых | Топ-20 товаров |
 |-------------------------------|----------------|
-| ![Сравнение](images/returning_vs_onetime.png) | ![Топ-20](images/top_20_products.png) |
+| <img width="350" height="375" alt="сравнение клиентов" src="https://github.com/user-attachments/assets/ed134903-3038-49bf-b74c-bdf36f03cb9a" /> | <img width="800" height="450" alt="топ позиций по выручке" src="https://github.com/user-attachments/assets/2e7c0243-5477-4712-92e4-52692685ef92" />
+ |
 
 ## Рекомендации для бизнеса
 
